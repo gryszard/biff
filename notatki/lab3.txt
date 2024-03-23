@@ -6,3 +6,6 @@ npm i @angular/cli@16.2.12
 
 #instalka/aktualizacja paczek
 npm i
+
+# W przypadku usunięcia paczki z npm: node_modules/../lib -> src/app/lib.
+# Trzeba potem ręcznie zaciągnąć paczkę tagiem <script> do html-a
