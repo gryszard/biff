@@ -1,0 +1,5 @@
+#sprawdzenie wersji
+ng version
+
+#instalka wersji
+npm i @angular/cli@16.2.12
