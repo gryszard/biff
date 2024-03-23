@@ -12,3 +12,5 @@ npm i
 
 # instalujemy moduł i podpinamy routing do głównego modułu app
 ng g m auth --module app --route auth
+
+dupa
