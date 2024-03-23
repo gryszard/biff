@@ -1,5 +1,8 @@
-#sprawdzenie wersji
+#sprawdzenie wersji - w cmd
 ng version
 
-#instalka wersji
+#instalka wersji - w cmd
 npm i @angular/cli@16.2.12
+
+#instalka/aktualizacja paczek
+npm i
